@@ -1,0 +1,1 @@
+# practice-for-week-10-sql-practice-join-one-to-many
